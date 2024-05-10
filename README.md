@@ -21,6 +21,9 @@
 ![Cs](https://github.com/kcasl/Unreal-LiDAR-CollisionMap/assets/93076513/4ff11f1a-ad2a-4113-94d7-72a801648161)
 
 ---
+# Result
+---
+
 ## Used Map Sample
 ![map_R](https://github.com/kcasl/Unreal-LiDAR-CollisionMap/assets/93076513/1e32766c-849a-420d-93cd-0b306fdf3fa0)
 
@@ -32,7 +35,7 @@
 ![Map_CC](https://github.com/kcasl/Unreal-LiDAR-CollisionMap/assets/93076513/c88529ee-233a-4f0d-a1a2-3853279fd8f0)
 ![Map_C](https://github.com/kcasl/Unreal-LiDAR-CollisionMap/assets/93076513/ff255de4-2d01-4fa6-8b03-77adbb0061c0)
 
-## result
+## Build
 ![Ma](https://github.com/kcasl/Unreal-LiDAR-CollisionMap/assets/93076513/753c4047-042c-40c5-a634-4c4547156c1e)
 ![M_p](https://github.com/kcasl/Unreal-LiDAR-CollisionMap/assets/93076513/9a507ec0-2517-4d61-92c2-95094871f3be)
 
