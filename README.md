@@ -1,4 +1,4 @@
-# 언리얼 엔진 및 LiDAR 센서 기반 콜리전 포함 3D 맵 생성 시뮬레이션
+# KCC2024 언리얼 엔진 및 LiDAR 센서 기반 콜리전 포함 3D 맵 생성 시뮬레이션
 ## Simulation of 3D map building with collision based on Unreal Engine and LiDAR sensor
 
 --- 
